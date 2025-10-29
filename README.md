@@ -1,2 +1,2 @@
 # Diplomarbeit-Arduino
-Arduino Software meiner Diplomarbeit (Diebstahlschutzsystem führ Fahrräder)
+Arduino Software meiner Diplomarbeit (Diebstahlschutzsystem für Fahrräder)
